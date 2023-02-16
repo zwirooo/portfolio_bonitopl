@@ -1,14 +1,13 @@
 # portfolio_bonitopl
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
-## TOOLS
+I am a beginner manual software tester with experience in quality control at a warehouse. My interests include activities that increase the functionality of a given product. I am in using software such as JIRA and TestLink. In the future, I would like to gain more experience in test automation and learn new programming languages. My strengths include attention to detail and creativ thinking. In my free time, I enjoy swimming and stacking Lego bricks.
+## TOOL
 * Jira
 * TestLink
 * GitHub
 ## TECH SKIILS
 * Software testing
 * Creating test cases
-* Reporting bugs
 * SCRUM
 * Bug reporting skills
 ## CERTIFICATES
