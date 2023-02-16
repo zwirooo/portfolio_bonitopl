@@ -25,7 +25,7 @@ Szkolenie Indywidualne tester manualny 09.02.2023
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES 
 ## MY TEST CASE EXAMPLES FOR BONITO.PL
-* [Test cases](https://drive.google.com/file/d/1Rmreu_MoEs5ecsKHgEeb6lVqFtIfnhRQ/view?usp=sharing)
+* [Test cases](https://drive.google.com/file/d/1HuixRElexyPVtXprFqEPgflVcRWmDBbd/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR BONITO.PL
 * [Login przyjmuje każdy znak](https://drive.google.com/file/d/10O5PZj68u_ug9vQgV6UfiS3h2uA_FlqT/view?usp=sharing)
