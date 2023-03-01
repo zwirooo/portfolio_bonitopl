@@ -28,7 +28,7 @@ Szkolenie Indywidualne tester manualny 09.02.2023
 * [Test cases](https://drive.google.com/file/d/1HuixRElexyPVtXprFqEPgflVcRWmDBbd/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR BONITO.PL
-* [Login przyjmuje znaki specjalne, białe i diaktryczne](https://drive.google.com/file/d/1tDkHLtGjwpk40zZUKs4QT2czTZzWqPI0/view?usp=share_link)
+* [Login przyjmuje znaki specjalne, białe i diaktryczne](https://drive.google.com/file/d/1eLE5jGH6JIrWsZEypt9ivojHPFsWfjRY/view?usp=share_link)
 * [Pole telefon przyjmuje każdą wartość](https://drive.google.com/file/d/15HnnXnmokYEn5pvvN6CrgCkac2W-Y2-Q/view?usp=sharing)
 
 ## MY REPORT
