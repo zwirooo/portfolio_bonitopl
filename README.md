@@ -33,7 +33,7 @@ Szkolenie Indywidualne tester manualny 09.02.2023
 
 ## MY REPORT
 ## MY REPORT FOR BONITO.PL
-* [Report PDF](https://drive.google.com/file/d/1HuixRElexyPVtXprFqEPgflVcRWmDBbd/view?usp=sharing)
+* [Report PDF](https://drive.google.com/file/d/1tDkHLtGjwpk40zZUKs4QT2czTZzWqPI0/view?usp=share_link)
 * [Report Excell](https://docs.google.com/spreadsheets/d/10Ae0j9eQUjYy8jCJbRvwwqC8pBnip-pf/edit?usp=sharing&ouid=117202607430356714281&rtpof=true&sd=true)
 ## MY MIND MAP
 ## MY MIND MAP FOR BONITO.PL
